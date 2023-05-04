@@ -1,8 +1,9 @@
+# Applied Data Science Capstone
+# SpaceX Falcon 9 First Stage Landing Prediction
+
 <p align="center">
 	<img src="IBM.png?raw=true" width=80% height=80%>
 </p>
-# Applied Data Science Capstone
-# SpaceX Falcon 9 First Stage Landing Prediction
 
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. 
 
