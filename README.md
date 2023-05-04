@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="IBM.png?raw=true" width=80% height=80%>
+</p>
 # Applied Data Science Capstone
 # SpaceX Falcon 9 First Stage Landing Prediction
 
